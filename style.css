@@ -1,0 +1,14 @@
+body{
+    font-family: cursive;
+    color:rgb(8, 8, 8);
+    background-color: rgb(88, 67, 110);
+}
+h1{
+    font-size: 80px;
+    margin-left: 30vw;
+}
+.container{
+    display: inline-block;
+    font-size: 50px;
+    margin-left: 20vw;
+}
